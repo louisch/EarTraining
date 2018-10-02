@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EarTraining</string>
+    <string name="play_sound_text">Play Sound</string>
+    <string name="question_text">What was the note?</string>
+    <string name="button_I_text">I</string>
+    <string name="button_II_text">II</string>
+    <string name="button_III_text">III</string>
+    <string name="button_IV_text">IV</string>
+    <string name="button_V_text">V</string>
+    <string name="button_VI_text">VI</string>
+    <string name="button_VII_text">VII</string>
+    <string name="correct_answer">Correct! Interval was %s\nNote was %s</string>
+    <string name="wrong_answer">Incorrect! Interval was %s\nNote was %s</string>
+</resources>
